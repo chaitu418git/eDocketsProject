@@ -1,0 +1,150 @@
+2022-09-28 17:08:01,161 [main] INFO eDockets Application - Entered the username
+2022-09-28 17:08:01,284 [main] INFO eDockets Application - Entered the password
+2022-09-28 17:08:02,621 [main] INFO eDockets Application - Clicked on Login Button
+2022-09-28 17:08:10,718 [main] INFO eDockets Application - Verification of Welcome to eDockets text is done
+2022-09-28 17:08:10,865 [main] INFO eDockets Application - Clicked on User Profile
+2022-09-28 17:08:11,858 [main] INFO eDockets Application - clicked on Logout Button
+2022-09-28 17:08:11,900 [main] INFO eDockets Application - Actual Title is: LoginAnd Expected Title is: Login\r\n Both are equal."
+2022-09-28 17:08:24,281 [main] INFO eDockets Application - Entered the username
+2022-09-28 17:08:24,404 [main] INFO eDockets Application - Entered the password
+2022-09-28 17:08:25,637 [main] INFO eDockets Application - Clicked on Login Button
+2022-09-28 17:08:45,486 [main] INFO eDockets Application - Verification of Welcome to eDockets text is done
+2022-09-28 17:08:45,572 [main] INFO eDockets Application - Clicked on Create Button
+2022-09-28 17:08:45,819 [main] INFO eDockets Application - Clicked on Client Button
+2022-09-28 17:08:45,938 [main] INFO eDockets Application - Clicked on ClientId field
+2022-09-28 17:08:46,135 [main] INFO eDockets Application - Entered the ClientId
+2022-09-28 17:08:46,230 [main] INFO eDockets Application - Clicked on ClientName field
+2022-09-28 17:08:46,403 [main] INFO eDockets Application - Entered the Client Name
+2022-09-28 17:08:46,486 [main] INFO eDockets Application - Clicked on Comments textbox
+2022-09-28 17:08:46,647 [main] INFO eDockets Application - Entered the comments
+2022-09-28 17:08:48,720 [main] INFO eDockets Application - Clicked on Status Dropdown
+2022-09-28 17:08:50,785 [main] INFO eDockets Application - Selected Active Option From Dropdown
+2022-09-28 17:08:50,877 [main] INFO eDockets Application - Clicked on Save Button
+2022-09-28 17:08:51,954 [main] INFO eDockets Application - Client Creation Success Message Verification is Done
+2022-09-28 17:08:52,034 [main] INFO eDockets Application - Clicked on Ok Button
+2022-09-28 17:08:55,087 [main] INFO eDockets Application - ExpectedClientId :AtDDTJeR
+2022-09-28 17:08:55,133 [main] INFO eDockets Application - Actual Value :AtDDTJeR : kIlLCIB
+2022-09-28 17:08:55,133 [main] INFO eDockets Application - ClientId Verification is Done
+2022-09-28 17:08:55,174 [main] INFO eDockets Application - ExpectedClientName :kIlLCIB
+2022-09-28 17:08:55,209 [main] INFO eDockets Application - Actual Value :AtDDTJeR : kIlLCIB
+2022-09-28 17:08:55,209 [main] INFO eDockets Application - ClientName Verification is Done
+2022-09-30 10:18:36,963 [main] INFO eDockets Application - Entered the username
+2022-09-30 10:18:37,169 [main] INFO eDockets Application - Entered the password
+2022-09-30 10:18:38,593 [main] INFO eDockets Application - Clicked on Login Button
+2022-09-30 10:19:19,295 [main] INFO eDockets Application - Verification of Welcome to eDockets text is done
+2022-09-30 10:19:19,399 [main] INFO eDockets Application - Clicked on User Profile
+2022-09-30 10:19:59,994 [main] INFO eDockets Application - clicked on Logout Button
+2022-09-30 10:20:00,029 [main] INFO eDockets Application - Actual Title is: ALN CLOUDAnd Expected Title is: Login\r\n Both are not equal."
+2022-09-30 10:20:15,133 [main] INFO eDockets Application - Entered the username
+2022-09-30 10:20:15,302 [main] INFO eDockets Application - Entered the password
+2022-09-30 10:20:17,157 [main] INFO eDockets Application - Clicked on Login Button
+2022-09-30 10:20:26,421 [main] INFO eDockets Application - Verification of Welcome to eDockets text is done
+2022-09-30 10:20:26,573 [main] INFO eDockets Application - Clicked on Create Button
+2022-09-30 10:20:26,872 [main] INFO eDockets Application - Clicked on Client Button
+2022-09-30 10:20:27,042 [main] INFO eDockets Application - Clicked on ClientId field
+2022-09-30 10:20:27,347 [main] INFO eDockets Application - Entered the ClientId
+2022-09-30 10:20:27,518 [main] INFO eDockets Application - Clicked on ClientName field
+2022-09-30 10:20:27,773 [main] INFO eDockets Application - Entered the Client Name
+2022-09-30 10:20:27,904 [main] INFO eDockets Application - Clicked on Comments textbox
+2022-09-30 10:20:28,184 [main] INFO eDockets Application - Entered the comments
+2022-09-30 10:20:30,303 [main] INFO eDockets Application - Clicked on Status Dropdown
+2022-09-30 10:20:52,396 [main] INFO eDockets Application - Selected Active Option From Dropdown
+2022-09-30 10:20:52,584 [main] INFO eDockets Application - Clicked on Save Button
+2022-09-30 10:20:53,728 [main] INFO eDockets Application - Client Creation Success Message Verification is Done
+2022-09-30 10:20:53,852 [main] INFO eDockets Application - Clicked on Ok Button
+2022-09-30 10:20:56,937 [main] INFO eDockets Application - ExpectedClientId :vETRrgdL
+2022-09-30 10:20:57,019 [main] INFO eDockets Application - Actual Value :vETRrgdL : cuBhVgK
+2022-09-30 10:20:57,020 [main] INFO eDockets Application - ClientId Verification is Done
+2022-09-30 10:20:57,078 [main] INFO eDockets Application - ExpectedClientName :cuBhVgK
+2022-09-30 10:20:57,152 [main] INFO eDockets Application - Actual Value :vETRrgdL : cuBhVgK
+2022-09-30 10:20:57,153 [main] INFO eDockets Application - ClientName Verification is Done
+2022-09-30 10:26:58,717 [main] INFO eDockets Application - Entered the username
+2022-09-30 10:26:58,894 [main] INFO eDockets Application - Entered the password
+2022-09-30 10:27:00,343 [main] INFO eDockets Application - Clicked on Login Button
+2022-09-30 10:27:34,399 [main] INFO eDockets Application - Verification of Welcome to eDockets text is done
+2022-09-30 10:27:34,545 [main] INFO eDockets Application - Clicked on User Profile
+2022-09-30 10:27:37,331 [main] INFO eDockets Application - clicked on Logout Button
+2022-09-30 10:27:37,367 [main] INFO eDockets Application - Actual Title is: LoginAnd Expected Title is: Login\r\n Both are equal."
+2022-09-30 10:27:49,799 [main] INFO eDockets Application - Entered the username
+2022-09-30 10:27:49,945 [main] INFO eDockets Application - Entered the password
+2022-09-30 10:27:51,307 [main] INFO eDockets Application - Clicked on Login Button
+2022-09-30 10:27:59,551 [main] INFO eDockets Application - Verification of Welcome to eDockets text is done
+2022-09-30 10:27:59,672 [main] INFO eDockets Application - Clicked on Create Button
+2022-09-30 10:27:59,901 [main] INFO eDockets Application - Clicked on Client Button
+2022-09-30 10:28:00,097 [main] INFO eDockets Application - Clicked on ClientId field
+2022-09-30 10:28:00,314 [main] INFO eDockets Application - Entered the ClientId
+2022-09-30 10:28:00,400 [main] INFO eDockets Application - Clicked on ClientName field
+2022-09-30 10:28:00,578 [main] INFO eDockets Application - Entered the Client Name
+2022-09-30 10:28:00,689 [main] INFO eDockets Application - Clicked on Comments textbox
+2022-09-30 10:28:00,884 [main] INFO eDockets Application - Entered the comments
+2022-09-30 10:28:02,975 [main] INFO eDockets Application - Clicked on Status Dropdown
+2022-09-30 10:28:05,068 [main] INFO eDockets Application - Selected Active Option From Dropdown
+2022-09-30 10:28:05,183 [main] INFO eDockets Application - Clicked on Save Button
+2022-09-30 10:28:06,350 [main] INFO eDockets Application - Client Creation Success Message Verification is Done
+2022-09-30 10:28:06,500 [main] INFO eDockets Application - Clicked on Ok Button
+2022-09-30 10:28:09,549 [main] INFO eDockets Application - ExpectedClientId :bCsiqwBH
+2022-09-30 10:28:09,642 [main] INFO eDockets Application - Actual Value :bCsiqwBH : iuTnYCj
+2022-09-30 10:28:09,643 [main] INFO eDockets Application - ClientId Verification is Done
+2022-09-30 10:28:09,687 [main] INFO eDockets Application - ExpectedClientName :iuTnYCj
+2022-09-30 10:28:09,738 [main] INFO eDockets Application - Actual Value :bCsiqwBH : iuTnYCj
+2022-09-30 10:28:09,739 [main] INFO eDockets Application - ClientName Verification is Done
+2022-09-30 10:29:07,307 [main] INFO eDockets Application - Entered the username
+2022-09-30 10:29:07,560 [main] INFO eDockets Application - Entered the password
+2022-09-30 10:29:08,983 [main] INFO eDockets Application - Clicked on Login Button
+2022-09-30 10:29:17,683 [main] INFO eDockets Application - Verification of Welcome to eDockets text is done
+2022-09-30 10:29:17,848 [main] INFO eDockets Application - Clicked on User Profile
+2022-09-30 10:29:19,087 [main] INFO eDockets Application - clicked on Logout Button
+2022-09-30 10:29:19,137 [main] INFO eDockets Application - Actual Title is: LoginAnd Expected Title is: Login\r\n Both are equal."
+2022-09-30 10:29:35,522 [main] INFO eDockets Application - Entered the username
+2022-09-30 10:29:35,730 [main] INFO eDockets Application - Entered the password
+2022-09-30 10:29:37,129 [main] INFO eDockets Application - Clicked on Login Button
+2022-09-30 10:29:53,696 [main] INFO eDockets Application - Verification of Welcome to eDockets text is done
+2022-09-30 10:29:53,834 [main] INFO eDockets Application - Clicked on Create Button
+2022-09-30 10:29:54,094 [main] INFO eDockets Application - Clicked on Client Button
+2022-09-30 10:29:54,256 [main] INFO eDockets Application - Clicked on ClientId field
+2022-09-30 10:29:54,542 [main] INFO eDockets Application - Entered the ClientId
+2022-09-30 10:29:54,762 [main] INFO eDockets Application - Clicked on ClientName field
+2022-09-30 10:29:54,998 [main] INFO eDockets Application - Entered the Client Name
+2022-09-30 10:29:55,132 [main] INFO eDockets Application - Clicked on Comments textbox
+2022-09-30 10:29:55,341 [main] INFO eDockets Application - Entered the comments
+2022-09-30 10:29:57,471 [main] INFO eDockets Application - Clicked on Status Dropdown
+2022-09-30 10:29:59,599 [main] INFO eDockets Application - Selected Active Option From Dropdown
+2022-09-30 10:29:59,778 [main] INFO eDockets Application - Clicked on Save Button
+2022-09-30 10:30:01,840 [main] INFO eDockets Application - Client Creation Success Message Verification is Done
+2022-09-30 10:30:01,974 [main] INFO eDockets Application - Clicked on Ok Button
+2022-09-30 10:30:05,046 [main] INFO eDockets Application - ExpectedClientId :sKncyDyY
+2022-09-30 10:30:05,142 [main] INFO eDockets Application - Actual Value :sKncyDyY : UCwtjzF
+2022-09-30 10:30:05,142 [main] INFO eDockets Application - ClientId Verification is Done
+2022-09-30 10:30:05,209 [main] INFO eDockets Application - ExpectedClientName :UCwtjzF
+2022-09-30 10:30:05,285 [main] INFO eDockets Application - Actual Value :sKncyDyY : UCwtjzF
+2022-09-30 10:30:05,285 [main] INFO eDockets Application - ClientName Verification is Done
+2022-09-30 10:30:50,731 [main] INFO eDockets Application - Entered the username
+2022-09-30 10:30:50,949 [main] INFO eDockets Application - Entered the password
+2022-09-30 10:30:52,550 [main] INFO eDockets Application - Clicked on Login Button
+2022-09-30 10:31:07,307 [main] INFO eDockets Application - Verification of Welcome to eDockets text is done
+2022-09-30 10:31:47,925 [main] INFO eDockets Application - Clicked on User Profile
+2022-09-30 10:32:28,522 [main] INFO eDockets Application - clicked on Logout Button
+2022-09-30 10:32:28,557 [main] INFO eDockets Application - Actual Title is: ALN CLOUDAnd Expected Title is: Login\r\n Both are not equal."
+2022-09-30 10:32:42,322 [main] INFO eDockets Application - Entered the username
+2022-09-30 10:32:42,495 [main] INFO eDockets Application - Entered the password
+2022-09-30 10:32:43,846 [main] INFO eDockets Application - Clicked on Login Button
+2022-09-30 10:32:52,595 [main] INFO eDockets Application - Verification of Welcome to eDockets text is done
+2022-09-30 10:32:52,704 [main] INFO eDockets Application - Clicked on Create Button
+2022-09-30 10:32:52,958 [main] INFO eDockets Application - Clicked on Client Button
+2022-09-30 10:32:53,132 [main] INFO eDockets Application - Clicked on ClientId field
+2022-09-30 10:32:53,341 [main] INFO eDockets Application - Entered the ClientId
+2022-09-30 10:32:53,432 [main] INFO eDockets Application - Clicked on ClientName field
+2022-09-30 10:32:53,585 [main] INFO eDockets Application - Entered the Client Name
+2022-09-30 10:32:53,699 [main] INFO eDockets Application - Clicked on Comments textbox
+2022-09-30 10:32:53,856 [main] INFO eDockets Application - Entered the comments
+2022-09-30 10:32:55,955 [main] INFO eDockets Application - Clicked on Status Dropdown
+2022-09-30 10:32:58,046 [main] INFO eDockets Application - Selected Active Option From Dropdown
+2022-09-30 10:32:58,155 [main] INFO eDockets Application - Clicked on Save Button
+2022-09-30 10:32:59,306 [main] INFO eDockets Application - Client Creation Success Message Verification is Done
+2022-09-30 10:32:59,411 [main] INFO eDockets Application - Clicked on Ok Button
+2022-09-30 10:33:02,456 [main] INFO eDockets Application - ExpectedClientId :TtDUhbRR
+2022-09-30 10:33:02,514 [main] INFO eDockets Application - Actual Value :TtDUhbRR : bLBYkwG
+2022-09-30 10:33:02,514 [main] INFO eDockets Application - ClientId Verification is Done
+2022-09-30 10:33:02,558 [main] INFO eDockets Application - ExpectedClientName :bLBYkwG
+2022-09-30 10:33:02,609 [main] INFO eDockets Application - Actual Value :TtDUhbRR : bLBYkwG
+2022-09-30 10:33:02,609 [main] INFO eDockets Application - ClientName Verification is Done

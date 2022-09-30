@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: eDockets.cucumber.runner.JUnitRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 161.8 s - in eDockets.cucumber.runner.JUnitRunnerTest
